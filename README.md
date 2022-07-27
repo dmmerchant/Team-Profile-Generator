@@ -49,7 +49,7 @@ Tests are built for the following classes:
 - Intern
 - Manager
 
-Use the following code in the command line to run the application:
+Use the following code in the command line to run the tests:
 
 
     npm test
